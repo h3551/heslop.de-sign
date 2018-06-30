@@ -1,0 +1,7 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# HUMANS
+
+		Daniel Heslop, author
+		Daniel Heslop, web_author

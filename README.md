@@ -1,2 +1,6 @@
-# heslop.de-sign
-Daniel Heslop’s Website
+#README
+
+	<mark
+	class="sub-*","reg-*","dir-*"
+	*="domain"];
+	></mark>
